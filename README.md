@@ -16,4 +16,5 @@ Repository to track my progress in various hobbys and life areas.
 
 ### Legende
 📝: Anforderungsanalyse
+
 ⚙️: Implementierung
